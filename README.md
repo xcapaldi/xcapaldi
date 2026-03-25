@@ -11,8 +11,3 @@ Based in Montréal.
 ## Interests
 
 Agentic engineering, microfabrication, accessible design, polymer physics, knot theory, cryptography ([cryptopals in Go](https://github.com/xcapaldi/cryptopals-go)).
-
-## Links
-
-- [xcapaldi.com](https://xcapaldi.com)
-- [ORCID](https://orcid.org/0000-0002-0396-3510)
